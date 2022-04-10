@@ -1,0 +1,17 @@
+com\verinon\lbm\jpa\BookRepository.class
+com\verinon\lbm\SwaggerConfig.class
+com\verinon\lbm\pojos\MemberPojo.class
+com\verinon\lbm\pojos\BookPojo.class
+com\verinon\lbm\controller\LoginController.class
+com\verinon\lbm\services\BookServices.class
+com\verinon\lbm\controller\ErrorController.class
+com\verinon\lbm\services\SmartServices.class
+com\verinon\lbm\jpa\SmartBookSystemRepository.class
+com\verinon\lbm\LbmApplication.class
+com\verinon\lbm\jpa\MemberRepository.class
+com\verinon\lbm\services\MemberServices.class
+com\verinon\lbm\services\LoginServices.class
+com\verinon\lbm\security\LoginSecurityConfig.class
+com\verinon\lbm\controller\MemberController.class
+com\verinon\lbm\pojos\SmartBookSystem.class
+com\verinon\lbm\controller\BookController.class
